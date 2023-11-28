@@ -1,0 +1,17 @@
+h1{
+    font-size: 22pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+button{
+    background-color: beige;
+    font-size: 15pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    transition: background-color 0.3s, transform 0.3s;
+}
